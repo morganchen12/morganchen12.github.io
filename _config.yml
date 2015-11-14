@@ -7,7 +7,7 @@ relative_permalinks: false
 # Setup
 title:               Occasional Blog
 tagline:             New Content on a Sometimes Basis
-url:                 localhost:4000
+url:                 morganchen.io
 paginate:            5
 baseurl:             ""
 
