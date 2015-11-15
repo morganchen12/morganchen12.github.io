@@ -1,3 +1,5 @@
+This website is built off of [poole](https://github.com/pool/poole), which is released under the MIT License.
+
 # Released under MIT License
 
 Copyright (c) 2013 Mark Otto.
